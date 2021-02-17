@@ -22,9 +22,9 @@ The Kochava SDK is a lightweight and easy to integrate SDK written in Objective-
 
 * [KochavaCore](https://github.com/Kochava/tvOS-StaticLibrary-KochavaCore) [![Download](https://img.shields.io/github/v/release/kochava/tvOS-StaticLibrary-KochavaCore?include_prereleases&sort=semver)](https://github.com/Kochava/tvOS-StaticLibrary-KochavaCore/releases)
 
-## Installation
+## Integration
 
-[Kochava Apple SDK - Getting Started](https://support.kochava.com/sdk-integration/sdk-kochavatracker-ios)
+[Kochava Apple SDK Integration](https://support.kochava.com/sdk-integration/sdk-kochavatracker-ios)
 
 ## Author
 
