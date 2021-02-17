@@ -10,14 +10,13 @@ The KochavaTracker module is an optional module within the Kochava SDK providing
 
 The Kochava SDK is a lightweight and easy to integrate SDK written in Objective-C and Swift, providing first-class integration with Kochava’s industry leading mobile attribution and analytics platform.
 
+## Built on
+
+* Xcode 8.x
+
 ## Platforms
 
-* tvOS 10.2
-
-## Dependencies
-
-* [KochavaCore](https://github.com/Kochava/tvOS-StaticLibrary-KochavaCore) 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/kochava/tvOS-StaticLibrary-KochavaCore?include_prereleases)
+* tvOS 9.0
 
 ## Installation
 
